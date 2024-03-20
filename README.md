@@ -1,1 +1,1 @@
-# git-example
+# Intellect_Practice_Repository
